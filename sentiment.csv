@@ -1,9 +1,22 @@
+ไม่ชอบ,neg
+ชอบ,pos
+สวย,pos
+ดีกว่านี้,neg
+อย่างที่คิด,neg
+ควรจะ,neg
+น่าจะ,neg
 ดีมาก,pos 
 answer_7,pos
 เร็ว,pos
 ช้า,neg
 ดี,pos
 สวย,pos
+ไม่สวย,neg
+ไม่ตรงปก,neg
+สกปรก,neg
+สะอาด,pos
+ไม่สะอาด,neg
+แพง,neg
 เกลียด ชอบหลอกให้สั่งซื้อ ที่ไหนได้ไม่มีสิ้นค้า,neg
 สินค้าด้อยคุณภาพ,neg
 สินค้าหมดทำไมไม่แจ้งขึ้นว่าหมดอะ.กดใส่ตะกร้าไปเถอะ.เซ็งเรย,neg
@@ -136,9 +149,10 @@ answer_7,pos
 สินค้าดีนะครับ  ถ้าออกขายจริงแล้วก็๋บอกบ้างนะครับ,pos
 very good,pos
 answer_7,pos
-fast, pos
-slow, neg
-good, pos
-beautiful, pos
-inferior product, neg
+fast,pos
+slow,neg
+good,pos
+beautiful,pos
+inferior product,neg
+bad,neg
 
